@@ -18,10 +18,10 @@ public class ThreadExampleApplicationTests {
 
     @Test
     public void contextLoads() {
-        for (int i = 0; i < 2; i++) {
+        /*for (int i = 0; i < 2; i++) {
             String s = threadOneController.sleepTenSecond(i+"");
             System.out.println("范湖结果" + s);
-        }
+        }*/
     }
 
 }
