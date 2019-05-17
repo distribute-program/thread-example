@@ -1,0 +1,7 @@
+server:
+  port: 8004
+  servlet:
+    context-path: /
+spring:
+  application:
+    name: thread-example
